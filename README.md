@@ -63,15 +63,15 @@ We warmly invite you to download and engage in discussions.
 
 ### Graduated students
 
-LiPeng Wan &#x1F4E7; Email: 
-Yi Ding &#x1F4E7; Email: 
-Jia Xu &#x1F4E7; Email: 
-Keming Pan &#x1F4E7; Email:
-Yao Zhang &#x1F4E7; Email:
-Zhenglin Liu &#x1F4E7; Email:
-Donghui Shen &#x1F4E7; Email:
-
-...
+LiPeng Wan &#x1F4E7; Email: <br/> 
+Yi Ding &#x1F4E7; Email: <br/>
+Jia Xu &#x1F4E7; Email: <br/>
+Keming Pan &#x1F4E7; Email:<br/>
+Yao Zhang &#x1F4E7; Email:<br/>
+Zhenglin Liu &#x1F4E7; Email: <br/>
+Donghui Shen &#x1F4E7; Email: <br/>
+... <br/>
+**Note: The above list represents only a part of our graduated students.**
 
 
 
