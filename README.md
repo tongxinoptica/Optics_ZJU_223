@@ -45,7 +45,7 @@ We warmly invite you to download and engage in discussions.
 
 **Xiaoyan Zhou**
 
-&#x1F4E7; Email: 
+&#x1F4E7; Email: iamxyzhou@zju.edu.cn
 
 <br/>
 
