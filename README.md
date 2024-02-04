@@ -107,7 +107,7 @@ Yunlai Zhu &#x1F4E7; Email: <br/>
 [Pan K, Xu J, Zhang Y, et al. Partially Coherent Dual and Quad Airy‐Like Beams](https://doi.org/10.1002/andp.202000618). Annalen der Physik, 2021, 533(4): 2000618.<br/>
 [Liu Z, Wan L, Zhou Y, et al. Progress on studies of beams carrying twist](https://doi.org/10.3390/photonics8040092). Photonics. MDPI, 2021, 8(4): 92.<br/>
 
-## Contribution
+## Acknowledgment
 
 We thank Dr. Xin Tong and the other group members for their contributions to the repository.
 
