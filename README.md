@@ -65,6 +65,7 @@ We warmly invite you to download and engage in discussions.
 
 LiPeng Wan &#x1F4E7; Email: <br/> 
 Yi Ding &#x1F4E7; Email: <br/>
+Yujie Zhou &#x1F4E7; Email: <br/>
 Jia Xu &#x1F4E7; Email: <br/>
 Keming Pan &#x1F4E7; Email:<br/>
 Yao Zhang &#x1F4E7; Email:<br/>
@@ -79,10 +80,31 @@ Yunlai Zhu &#x1F4E7; Email: <br/>
 
 ### 2024
 
-
+[Zeng Z, Zhao D. Superposed Laguerre‐Gaussian Beams‐Based Orbital Angular Momentum Holography](https://doi.org/10.1002/lpor.202300965). Laser & Photonics Reviews, 2024: 2300965.
 
 ### 2023
 
+[Tong X, Xu R, Xu P, et al. Harnessing the magic of light: spatial coherence instructed swin transformer for universal holographic imaging](https://doi.org/10.1117/1.AP.5.6.066003). Advanced Photonics, 2023, 5(6): 066003.<br/>
+[Zhou X, Liu S, Zhao D. Rigorous full-wave calculation of optical forces on microparticles immersed in vector Pearcey beams](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-13-20825&id=531312). Optics Express, 2023, 31(13): 20825-20835.<br/>
+[Ding Y, Zhao D. Resolving an inverse problem through a momentum flow within the framework of electromagnetic scattering](https://opg.optica.org/ol/abstract.cfm?uri=ol-48-20-5347). Optics Letters, 2023, 48(20): 5347-5350.<br/>
+
 ### 2022
 
+[Tong X, Xu R, Liu K, et al. A Deep‐Learning Approach for Low‐Spatial‐Coherence Imaging in Computer‐Generated Holography](https://doi.org/10.1002/adpr.202200264). Advanced Photonics Research, 2023, 4(1): 2200264.<br/>
+[Zhou X, Pang Z, Zhao D. Measurement of Photonic Topological Charge Using a Generalized Ring Pearcey Phase](https://doi.org/10.1002/andp.202100471). Annalen der Physik, 2022, 534(2): 2100471.<br/>
+[Pan K, Xu J, Zeng Z, et al. Propagation Properties and Application of Radially Polarized Partially Coherent Twisted Vortex Hermite‐Gaussian Schell‐Model Beams](https://doi.org/10.1002/andp.202200017). Annalen der Physik, 2022, 534(6): 2200017.<br/>
+
 ### 2021
+
+[Zhou Y, Zhao D. Research on Statistical Properties and Application of Off‐Axis Gaussian Schell‐Model Beams](https://doi.org/10.1002/andp.202100017). Annalen der Physik, 2021, 533(8): 2100017.<br/>
+[Zeng Z, Zhao D. Partially Coherent Dual Nonparaxial Accelerating Beams](https://doi.org/10.1002/andp.202000438). Annalen der Physik, 2021, 533(2): 2000438.<br/>
+[Zhou X, Pang Z, Zhao D. Generalized ring pearcey beams with tunable autofocusing properties](https://doi.org/10.1002/andp.202100110). Annalen der Physik, 2021, 533(7): 2100110.<br/>
+[Pan K, Xu J, Zhang Y, et al. Partially Coherent Dual and Quad Airy‐Like Beams](https://doi.org/10.1002/andp.202000618). Annalen der Physik, 2021, 533(4): 2000618.<br/>
+[Liu Z, Wan L, Zhou Y, et al. Progress on studies of beams carrying twist](https://doi.org/10.3390/photonics8040092). Photonics. MDPI, 2021, 8(4): 92.
+
+
+
+
+
+
+
