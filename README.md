@@ -15,7 +15,7 @@ We warmly invite you to download and engage in discussions.
 
 ### PI
 
-Prof. Daomu Zhao (Group leader)
+**Prof. Daomu Zhao (Group leader)**
 
 &#x1F4E7; Email: optics@zju.edu.cn
 
@@ -50,11 +50,13 @@ Prof. Daomu Zhao (Group leader)
 <br/>
 
 **Shuxi Liu**
+
 &#x1F4E7; Email: 12245019@zju.edu.cn
 
 <br/>
 
 **Chenglin Xing**
+
 &#x1F4E7; Email: 1376356224@qq.com
 
 
