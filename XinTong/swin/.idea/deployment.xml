@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="featurize@workspace.featurize.cn:42570" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="featurize@workspace.featurize.cn:42570">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/featurize/tongxin" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:60223">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_397" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@workspace.featurize.cn:60223 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/featurize/tongxin" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
