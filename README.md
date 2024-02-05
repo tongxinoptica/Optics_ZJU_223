@@ -9,7 +9,7 @@ Welcome to our research team's repository. Here, you'll find a collection of rec
 
 Each subfile in the repository contains the author's published articles and code. If you have any questions, please feel free to contact the author. Contact information for authors can be found in '**Group Members**'. 
 
-We warmly invite you to download and engage in discussions.
+We warmly invite you to download and engage in discussion.
 
 ## Group Members
 
