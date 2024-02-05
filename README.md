@@ -65,14 +65,14 @@ We warmly invite you to download and engage in discussions.
 
 LiPeng Wan &#x1F4E7; Email: <br/> 
 Yi Ding &#x1F4E7; Email: <br/>
-Yujie Zhou &#x1F4E7; Email: <br/>
+Yujie Zhou &#x1F4E7; Email: 2430935162@qq.com <br/>
 Jia Xu &#x1F4E7; Email: <br/>
 Keming Pan &#x1F4E7; Email:<br/>
 Yao Zhang &#x1F4E7; Email:<br/>
 Zhenglin Liu &#x1F4E7; Email: <br/>
-Donghui Shen &#x1F4E7; Email: <br/>
+Donghui Shen &#x1F4E7; Email: saysin@163.com <br/>
 Zewei Huang &#x1F4E7; Email: <br/>
-Yunlai Zhu &#x1F4E7; Email: <br/>
+Yunlai Zhu &#x1F4E7; Email: 275592032@qq.com <br/>
 ... <br/>
 **Note: The above list represents only a part of graduated students.**
 
