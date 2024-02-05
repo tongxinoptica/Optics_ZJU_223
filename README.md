@@ -63,15 +63,15 @@ We warmly invite you to download and engage in discussions.
 
 ### Graduated students
 
-LiPeng Wan &#x1F4E7; Email: <br/> 
-Yi Ding &#x1F4E7; Email: <br/>
+LiPeng Wan &#x1F4E7; Email: Lwanoptics@ncu.edu.cn <br/> 
+Yi Ding &#x1F4E7; Email: yiding2016zju@126.com <br/>
 Yujie Zhou &#x1F4E7; Email: 2430935162@qq.com <br/>
-Jia Xu &#x1F4E7; Email: <br/>
-Keming Pan &#x1F4E7; Email:<br/>
-Yao Zhang &#x1F4E7; Email:<br/>
+Jia Xu &#x1F4E7; Email: xujiagabby@gmail.com <br/>
+Keming Pan &#x1F4E7; Email: 18067352669@163.com<br/>
+Yao Zhang &#x1F4E7; Email: zyzy498587881@sina.cn <br/>
 Zhenglin Liu &#x1F4E7; Email: <br/>
 Donghui Shen &#x1F4E7; Email: saysin@163.com <br/>
-Zewei Huang &#x1F4E7; Email: <br/>
+Zewei Huang &#x1F4E7; Email: hzw0814xp@gmail.com <br/>
 Yunlai Zhu &#x1F4E7; Email: 275592032@qq.com <br/>
 ... <br/>
 **Note: The above list represents only a part of graduated students.**
