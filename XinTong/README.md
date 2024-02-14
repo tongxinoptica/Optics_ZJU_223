@@ -8,7 +8,7 @@ Email: tongxin661@zju.edu.cn
 
 # TWC-Swin
 
-The code is avaliable for the paper 
+The code is avaliable for the paper Harnessing the magic of light: spatial coherence instructed swin transformer for universal holographic imaging. Advanced Photonics, 2023, 5(6): 066003.
 
 1.Download and unzip swin.zip
 
