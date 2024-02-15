@@ -87,7 +87,7 @@ Yunlai Zhu &#x1F4E7; Email: 275592032@qq.com <br/>
 [Tong X, Xu R, Xu P, et al. Harnessing the magic of light: spatial coherence instructed swin transformer for universal holographic imaging](https://doi.org/10.1117/1.AP.5.6.066003). Advanced Photonics, 2023, 5(6): 066003.<br/>
 [Zeng Z, Pang Z, Pan K, et al. Multiplication and division of orbital angular momentum beams by Fermat’s spiral transformation](https://opg.optica.org/prj/fulltext.cfm?uri=prj-11-2-165&id=525475). Photonics Research, 2023, 11(2): 165-172.<br/>
 [Zhou X, Liu S, Zhao D. Rigorous full-wave calculation of optical forces on microparticles immersed in vector Pearcey beams](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-13-20825&id=531312). Optics Express, 2023, 31(13): 20825-20835.<br/>
-[Huang Z, Yang Y, Pan K, et al. Generalized partially coherent power-exponent-phase vortex beams](https://www.sciencedirect.com/science/article/abs/pii/S0030399222007034). Optics & Laser Technology, 2022, 156: 108553.
+[Huang Z, Yang Y, Pan K, et al. Generalized partially coherent power-exponent-phase vortex beams](https://www.sciencedirect.com/science/article/abs/pii/S0030399222007034). Optics & Laser Technology, 2022, 156: 108553.<br/>
 [Ding Y, Zhao D. Resolving an inverse problem through a momentum flow within the framework of electromagnetic scattering](https://opg.optica.org/ol/abstract.cfm?uri=ol-48-20-5347). Optics Letters, 2023, 48(20): 5347-5350.<br/>
 
 ### 2022
