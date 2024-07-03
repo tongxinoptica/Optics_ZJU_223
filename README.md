@@ -7,7 +7,7 @@ Optics_zju_223 research group, led by **professor Daomu Zhao** from the **Depart
 
 Welcome to our research team's repository. Here, you'll find a collection of recent publications and codes from our group. 
 
-Each subfile in the repository contains the author's published articles and code. If you have any questions, please feel free to contact the author. Contact information for authors can be found in '**Group Members**'. 
+Each subfile in the repository contains the author's published articles and code. If you have any questions, please feel free to contact the author. Author information can be found in '**Group Members**'. 
 
 We warmly invite you to download and discuss.
 
