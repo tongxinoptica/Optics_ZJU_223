@@ -81,7 +81,7 @@ Yunlai Zhu &#x1F4E7; Email: 275592032@qq.com <br/>
 ### 2024
 
 [Zhou, X., Wang, H., Liu, S. et al. Arbitrary engineering of spatial caustics with 3D-printed metasurfaces](https://doi.org/10.1038/s41467-024-48026-5). Nat Commun 15, 3719 (2024).<br/>
-[Pengfei Xu1, Xing Tong1, et al. High-resolution recognition of orbital angular momentum modes in asymmetric Bessel beams assisted by deep learning](10.1088/0256-307X/41/7/074201). Chinese Optics Letter.<br/>
+[Pengfei Xu1, Xing Tong1, et al. High-resolution recognition of orbital angular momentum modes in asymmetric Bessel beams assisted by deep learning]([10.1088/0256-307X/41/7/074201](https://iopscience.iop.org/article/10.1088/0256-307X/41/7/074201/meta)). Chinese Optics Letter.<br/>
 [S. Liu, Z. Zeng, X. Tong, P. Xu, D. Zhao, Shaping of Vector Beams Based on Caustic Design](https://doi.org/10.1002/lpor.202400200). Laser Photonics Rev 2024, 2400200.<br/>
 [Zeng Z, Zhao D. Superposed Laguerre‐Gaussian Beams‐Based Orbital Angular Momentum Holography](https://doi.org/10.1002/lpor.202300965). Laser & Photonics Reviews, 2024: 2300965.
 
