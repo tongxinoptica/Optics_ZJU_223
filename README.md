@@ -1,7 +1,7 @@
 # **Optics_ZJU_223 Research Group**
 ## Research Group Introduction
 
-Optics_zju_223 research group, led by **professor Daomu Zhao** from the **Department of Physics at Zhejiang University**, is dedicated to exploring the fascinating fields of ***Light Field Manipulation, Beam Transmission, Computational Optics, Deep Learning, theories of coherence and polarization, etc.***
+Optics_zju_223 research group, led by **professor Daomu Zhao** from the **Department of Physics at Zhejiang University**, is dedicated to exploring the fascinating fields of ***Light Field Manipulation, Beam Transmission, Computational Optics, Deep Learning, theories of coherence and polarization***, etc.
 
 ## Group Repository
 
@@ -15,54 +15,24 @@ We warmly invite you to download and discuss.
 
 ### PI
 
-**Prof. Daomu Zhao (Group leader)**
-
+**Prof. Daomu Zhao (Group leader)** </br>
 &#x1F4E7; Email: optics@zju.edu.cn
-
-<br/>
 
 ### PhD students
 
-**Pengfei Xu**
-
-&#x1F4E7; Email: xpf01@zju.edu.cn
-
-<br/>
-
-**Zishuai Zeng**
-
-&#x1F4E7; Email: zeng183189@163.com
-
-<br/>
-
-[**Xin Tong**](https://tongxinoptica.github.io/XinTong.github.io/)
-
-😃Personal Website: https://tongxinoptica.github.io/XinTong.github.io/
-
-&#x1F4E7; Email: tongxin661@gmail.com
-
-<br/>
-
-**Xiaoyan Zhou**
-
-&#x1F4E7; Email: iamxyzhou@zju.edu.cn
-
-<br/>
-
-**Shuxi Liu**
-
-&#x1F4E7; Email: 12245019@zju.edu.cn
-
-<br/>
-
-**Chenglin Xing**
-
-&#x1F4E7; Email: 1376356224@qq.com
-
-<br/>
+**Tianyu Zhang** &#x1F4E7; Email:  </br>
+**Minliang Huang** &#x1F4E7; Email:  </br>
+**Tianya Shao** &#x1F4E7; Email:  </br>
+**Dongyang Xie** &#x1F4E7; Email:  </br>
+**Chenglin Xing** &#x1F4E7; Email: 1376356224@qq.com </br>
+**Shuxi Liu** &#x1F4E7; Email: 12245019@zju.edu.cn </br>
 
 ### Graduated students
-
+[Xin Tong](https://tongxinoptica.github.io/XinTong.github.io/) &#x1F4E7; Email: tongxin661@gmail.com
+😃Personal Website: https://tongxinoptica.github.io/XinTong.github.io/ </br>
+Pengfei Xu &#x1F4E7; Email: xpf01@zju.edu.cn </br>
+Zishuai Zeng &#x1F4E7; Email: zeng183189@163.com <br/>
+Xiaoyan Zhou &#x1F4E7; Email: iamxyzhou@zju.edu.cn <br/>
 LiPeng Wan &#x1F4E7; Email: Lwanoptics@ncu.edu.cn <br/> 
 Yi Ding &#x1F4E7; Email: yiding2016zju@126.com <br/>
 Yujie Zhou &#x1F4E7; Email: 2430935162@qq.com <br/>
@@ -77,6 +47,10 @@ Yunlai Zhu &#x1F4E7; Email: 275592032@qq.com <br/>
 **Note: The above list represents only a part of graduated students.**
 
 ## Publications
+
+### 2025
+
+
 
 ### 2024
 
@@ -115,9 +89,3 @@ Yunlai Zhu &#x1F4E7; Email: 275592032@qq.com <br/>
 We thank Dr. Xin Tong and the other group members for their contributions to the repository.
 
 If our open-source materials are helpful in your research programs, we would greatly appreciate your acknowledgment through citing the corresponding publications.😃
-
-
-
-
-
-
